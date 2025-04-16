@@ -19,3 +19,5 @@ SQL UDFs
 Advanced Data Lake Features
 
 Coures Summary
+
+
