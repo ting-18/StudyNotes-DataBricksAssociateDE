@@ -18,6 +18,6 @@ SQL UDFs
 
 Advanced Data Lake Features
 
-Coures Summary
+Course Summary
 
 
